@@ -2,7 +2,7 @@
 
 **MOVED**: This role has been moved into the `buluma.mac` collection. Please see [this issue](https://github.com/buluma/ansible-role-mas/issues/31) for a migration guide and more information.
 
-[![CI][badge-gh-actions]][link-gh-actions]
+[![CI][badge-gh-actions]][link-gh-actions] [![Release](https://github.com/buluma/ansible-role-mas/actions/workflows/release.yml/badge.svg)](https://github.com/buluma/ansible-role-mas/actions/workflows/release.yml)
 
 Installs [mas](https://github.com/mas-cli/mas) on macOS, and installs macOS apps from the Mac App Store.
 
