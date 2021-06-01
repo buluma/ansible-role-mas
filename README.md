@@ -1,4 +1,4 @@
-# Ansible Role: Mac App Store CLI (mas) (MOVED)
+# Ansible Role: Mac App Store CLI (mas)
 
 **MOVED**: This role has been moved into the `buluma.mac` collection. Please see [this issue](https://github.com/buluma/ansible-role-mas/issues/31) for a migration guide and more information.
 
@@ -62,7 +62,7 @@ MIT / BSD
 
 ## Author Information
 
-This role was created in 2016 by [Jeff Geerling](https://www.github.com/buluma), author of [Ansible for DevOps](https://www.ansiblefordevops.com/).
+This role was created in 2021 by [Michael Buluma](https://www.github.com/buluma).
 
 [badge-gh-actions]: https://github.com/buluma/ansible-role-mas/workflows/CI/badge.svg?event=push
 [link-gh-actions]: https://github.com/buluma/ansible-role-mas/actions?query=workflow%3ACI
