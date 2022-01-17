@@ -42,7 +42,7 @@ jobs:
       matrix:
         os:
           - macos-10.15
-          - macos-11.6.2
+          - macos-11.6
 
     steps:
       - name: Check out the codebase.
