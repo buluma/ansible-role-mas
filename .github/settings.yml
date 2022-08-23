@@ -1,0 +1,8 @@
+---
+#
+# Ansible managed
+#
+repository:
+  description: Mac App Store CLI installation for macOS
+  homepage: https://buluma.github.io/
+  topics: development, system, packaging, mas, mac, app, store, macos, ansible, molecule, tox, playbook, hacktoberfest
