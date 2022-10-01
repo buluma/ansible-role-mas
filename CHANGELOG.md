@@ -8,6 +8,10 @@
 
 - increase interval [\#1](https://github.com/buluma/ansible-role-mas/issues/1)
 
+**Merged pull requests:**
+
+- Bump actions/setup-python from 2 to 4 [\#2](https://github.com/buluma/ansible-role-mas/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.0.2](https://github.com/buluma/ansible-role-mas/tree/v1.0.2) (2022-01-17)
 
 [Full Changelog](https://github.com/buluma/ansible-role-mas/compare/1.0.1...v1.0.2)
