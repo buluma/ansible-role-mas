@@ -10,6 +10,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.7 [\#8](https://github.com/buluma/ansible-role-mas/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/setup-python from 2 to 4 [\#2](https://github.com/buluma/ansible-role-mas/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.0.2](https://github.com/buluma/ansible-role-mas/tree/v1.0.2) (2022-01-17)
